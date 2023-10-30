@@ -4,3 +4,7 @@
 # Title: Qubit Dynamics and Quantum Computing
 
 (Add description later.)
+
+## Additional header
+
+Additional text
